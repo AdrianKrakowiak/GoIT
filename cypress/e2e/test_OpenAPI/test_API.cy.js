@@ -7,7 +7,7 @@ describe("check status code", () => {
       const status = response.status;
       assert.equal(200, status);
     });
-  });
+  }):
 });
 
 describe("GET method", () => {
