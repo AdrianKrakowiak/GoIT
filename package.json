@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AdrianKrakowiak/goit-js-hw-03#readme",
   "devDependencies": {
-    "cypress": "^12.9.0"
+    "cypress": "^12.11.0"
   }
 }
