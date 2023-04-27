@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdrianKrakowiak/goit-js-hw-03.git"
+    "url": "git+https://github.com/AdrianKrakowiak/GoIT.git"
   },
   "author": "Adrian K",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AdrianKrakowiak/goit-js-hw-03/issues"
+    "url": "https://github.com/AdrianKrakowiak/GoIT.git"
   },
-  "homepage": "https://github.com/AdrianKrakowiak/goit-js-hw-03#readme",
+  "homepage": "https://github.com/AdrianKrakowiak/GoIT.git#readme",
   "devDependencies": {
     "cypress": "^12.11.0"
   }
